@@ -71,24 +71,24 @@ function App() {
       <div className='grid lg:grid-cols-2 grid-cols-1 gap-10 p-4'>
 
         <div className='lg:col-span-1 col-span-1'>
-          <label className='block mb-2 text-left'>Girilen Sayı :</label>
+          <label className='block mb-2 text-left'>Girilen Sayı: </label>
           <input name="number1" type="number" className='bg-[#999] text-black pl-1' onChange={(event) => setNumber1(event.target.value)}></input>
         </div>
 
         
         <div className='lg:col-span-1 col-span-1'>
-          <label className='block mb-2 text-left'>Faktoriyel Sonucu :</label>
+          <label className='block mb-2 text-left'>Faktoriyel Sonucu: </label>
           <input value={faktoriyell} className='bg-[#999] text-black pl-1' readonly></input>
         </div>
 
         <div className='lg:col-span-1 col-span-1'>
-          <label className='block mb-2 text-left'>Girilen Sayı :</label>
+          <label className='block mb-2 text-left'>Girilen Sayı: </label>
           <input name="number2" type="number" className='bg-[#999] text-black pl-1' onChange={(event) => setNumber2(event.target.value)}></input>
         </div>
 
         
         <div className='lg:col-span-1 col-span-1'>
-          <label className='block mb-2 text-left'>Fibonacci Sonucu :</label>
+          <label className='block mb-2 text-left'>Fibonacci Sonucu: </label>
           <input value={fibonaccii} className='bg-[#999] text-black pl-1' readonly></input>
         </div>
 
