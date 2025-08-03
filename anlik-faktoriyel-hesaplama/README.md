@@ -5,6 +5,13 @@
 - useEffect ise belirtilen değişkenin değer aldığı veya değer değiştiği durumda içindeki komutlar tetiklenir. 
 
 
+### Projede Kullanılan Bağımlılıklar
+---
+
+- React
+- Tailwind CSS
+- Vite (Hot-Reloaded)
+
 
 ### Proje Çalıştırılırken
 ---
