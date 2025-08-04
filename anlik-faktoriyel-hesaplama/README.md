@@ -22,6 +22,7 @@
     - `git clone https://github.com/ardabicerel/STAJ22001.git`
 
 - Proje bağımlılıklarını kurmak için :
+  - `cd '.../STAJ22001/anlik-faktoriyel-hesaplama'`
   - `npm install`
 
 - Projeyi çalıştırmak için :
